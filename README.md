@@ -1,9 +1,5 @@
 # Vectra Forge
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 Vectra Forge is an AI-powered design tool that generates instant, high-quality product mockups from your vector or logo uploads. Built with React and powered by Google's Gemini 2.5 Flash, it allows designers and merchandisers to visualize their branding on various products with realistic lighting, shadows, and textures.
 
 ## Features
