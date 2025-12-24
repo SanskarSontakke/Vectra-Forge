@@ -1,0 +1,8 @@
+{
+  "name": "Vectra Forge",
+  "description": "Upload logos to generate instant product mockups using Gemini 2.5 Flash or edit them with text prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
