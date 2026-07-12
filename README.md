@@ -41,8 +41,8 @@ Vectra Forge is an AI-powered design tool that generates instant, high-quality p
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd vectra-forge
+   git clone https://github.com/SanskarSontakke/Vectra-Forge.git
+   cd Vectra-Forge
    ```
 
 2. **Install dependencies**
@@ -71,3 +71,7 @@ npm run build
 ```
 
 This will generate a `dist` folder ready for deployment on static hosting services like Vercel, Netlify, or GitHub Pages.
+
+## License
+
+MIT © 2026 Sanskar Sontakke
